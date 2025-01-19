@@ -16,7 +16,7 @@ def main(): #main function
 
         computerChoice = random.randint(0, 2)
 
-        print(f"Player choice: {choiPaces[playerChoice]}")
+        print(f"Player choice: {choices[playerChoice]}")
         print(f"Computer choice: {choices[computerChoice]}")
 
 
